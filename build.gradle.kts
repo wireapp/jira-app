@@ -1,7 +1,7 @@
 plugins {
     kotlin("jvm") version "2.2.0"
     id("io.gitlab.arturbosch.detekt") version "1.23.8"
-    id("org.jlleitschuh.gradle.ktlint") version "13.1.0"
+    id("org.jlleitschuh.gradle.ktlint") version "14.0.1"
 }
 
 group = "com.wire.apps.jira"
