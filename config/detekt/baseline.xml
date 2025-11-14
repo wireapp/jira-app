@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<SmellBaseline>
+  <ManuallySuppressedIssues></ManuallySuppressedIssues>
+  <CurrentIssues>
+    <ID>MagicNumber:OutboundHttpClientConfig.kt$OutboundHttpClientConfig$20</ID>
+    <ID>TooGenericExceptionCaught:CommandHandler.kt$CommandHandler$e: Exception</ID>
+    <ID>TooGenericExceptionCaught:JiraRepositoryImpl.kt$JiraRepositoryImpl$e: Exception</ID>
+    <ID>TooGenericExceptionCaught:WireMessagingGateway.kt$WireMessagingGateway$e: Exception</ID>
+  </CurrentIssues>
+</SmellBaseline>
