@@ -1,7 +1,7 @@
 plugins {
     kotlin("jvm") version "2.2.21"
     id("io.gitlab.arturbosch.detekt") version "1.23.8"
-    id("org.jlleitschuh.gradle.ktlint") version "13.1.0"
+    id("org.jlleitschuh.gradle.ktlint") version "14.0.1"
 }
 
 group = "com.wire.apps.jira"
@@ -22,7 +22,7 @@ detekt {
 
 dependencies {
     implementation("io.javalin:javalin:6.7.0")
-    implementation("org.slf4j:slf4j-simple:2.0.16")
+    implementation("org.slf4j:slf4j-simple:2.0.17")
     implementation("com.fasterxml.jackson.module:jackson-module-kotlin:2.17.2")
     implementation("com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.17.2")
     implementation("io.insert-koin:koin-core:4.1.1")
