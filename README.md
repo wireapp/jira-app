@@ -12,7 +12,7 @@ A lightweight Kotlin service that integrates with Wire's SDK. Combines Javalin (
 - Koin 4.1.1 (dependency injection)
 - Wire Apps JVM SDK 0.0.18
 
-**Architecture: Lightweight Clean Hex**
+**Architecture: Lightweight Clean Architecture**
 
 Organized in three layers:
 - **Core** (`com.wire.apps.jira.core`): Domain logic, use cases, interfaces
