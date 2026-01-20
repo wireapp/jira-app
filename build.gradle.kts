@@ -24,7 +24,7 @@ dependencies {
     implementation("io.javalin:javalin:6.7.0")
     implementation("org.slf4j:slf4j-simple:2.0.17")
     implementation("com.fasterxml.jackson.module:jackson-module-kotlin:2.21.0")
-    implementation("com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.17.2")
+    implementation("com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.21.0")
     implementation("io.insert-koin:koin-core:4.1.1")
     implementation("com.wire:wire-apps-jvm-sdk:0.0.18")
     testImplementation(kotlin("test"))
