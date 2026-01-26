@@ -26,7 +26,7 @@ dependencies {
     implementation("com.fasterxml.jackson.module:jackson-module-kotlin:2.21.0")
     implementation("com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.21.0")
     implementation("io.insert-koin:koin-core:4.1.1")
-    implementation("com.wire:wire-apps-jvm-sdk:0.0.18")
+    implementation("com.wire:wire-apps-jvm-sdk:0.0.19")
     testImplementation(kotlin("test"))
 }
 
